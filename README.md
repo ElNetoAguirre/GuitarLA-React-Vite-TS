@@ -12,7 +12,7 @@
   </p>
 </div>
 
-# GuitarLA - React + Vite + TypeScript
+# GuitarLA - React + Vite + TypeScript + useReducer
 
 Aplicación creada con [React](https://react.dev/) y [Vite](https://vitejs.dev/) usando [TypeScript](https://www.typescriptlang.org/), la cual es un carrito de compras para una tienda virtual que vende guitarras, puedes presionar el botón "Agregar al Carrito" y éste se actualizará realizando el cálculo del monto a pagar dependiendo de las guitarras agregadas y la cantidad de cada una de ellas, a demás el carrito es persistente.
 
@@ -23,9 +23,10 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 3. useEstate.
 4. useEffect.
 5. useMemo.
-6. LocalStorage.
-7. Hooks personalizados.
-8. Y más.
+6. useReducer.
+7. LocalStorage.
+8. Hooks personalizados.
+9. Y más.
 
 # React + TypeScript + Vite
 
